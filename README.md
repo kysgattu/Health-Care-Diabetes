@@ -1,6 +1,6 @@
 # Health Care-Diabetes
 
-- ***Accurately predict whether or not the patients in the dataset have diabetes ***
+- ***Accurately predict whether or not the patients in the dataset have diabetes.***
 
 
 
